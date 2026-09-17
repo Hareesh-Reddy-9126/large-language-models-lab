@@ -1,0 +1,5 @@
+Method,Vocabulary Size,Total Tokens,Average Tokens/Word,OOV Strategy
+Word-level,33,41,1.0,Whole-word OOV
+BPE (GPT-2),40,57,1.39,Subword decomposition
+WordPiece (BERT),36,51,1.24,Subword decomposition
+SentencePiece (T5),40,54,1.32,Subword decomposition
